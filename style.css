@@ -7,3 +7,7 @@
     --cor-de-fundo: black;
     --cor-da-letra: white;
 }
+
+body{
+    background-color: var(--cor-de-fundo);
+}
