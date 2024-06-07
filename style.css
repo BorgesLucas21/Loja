@@ -9,6 +9,7 @@
     --cor-de-fundo: black;
     --cor-da-letra: white;
 }
+
 body{/*seletor Body*/
     background-color: var(--cor-de-fundo);
 }
