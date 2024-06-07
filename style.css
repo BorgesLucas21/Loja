@@ -1,13 +1,12 @@
+@import url(style.css);
+
 *{ /*seletor universal para resetar as bordas da página*/
-    padding: 0px;
-    margin: 0px;
 }
 
 :root {/* seletor raiz para variáveis*/
     --cor-de-fundo: black;
     --cor-da-letra: white;
 }
-
 body{
     background-color: var(--cor-de-fundo);
 }
